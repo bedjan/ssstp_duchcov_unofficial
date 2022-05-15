@@ -1,3 +1,6 @@
+<html>
+<base target="_blank">
+  
 # ssstp_duchcov_unofficial
 
 [Střední škola stavební a strojní, Duchcov](https://www.ssstp.cz/)
@@ -7,9 +10,17 @@
 ## Obory
 
 [Instalatér](https://www.ssstp.cz/2021/01/18/instalater-stipendium/)
-[Karosář](https://www.ssstp.cz/2021/01/18/instalater-stipendium/)
+
+[Karosář](https://www.ssstp.cz/2021/01/18/karosar/)
+
 [Klempíř](https://www.ssstp.cz/2021/01/18/klempir-stipendium/)
+
 [Malířské a natěračské práce](https://www.ssstp.cz/2021/01/18/malirske-a-nateracske-prace/)
+
 [Malíř a lakýrník](https://www.ssstp.cz/2021/01/18/malir-a-lakyrnik/)
+
 [Zahradnické práce](https://www.ssstp.cz/2021/01/18/zahradnicke-prace/)
+
 [Zednické práce](https://www.ssstp.cz/2021/01/18/zednicke-prace/)
+  
+  </html>
