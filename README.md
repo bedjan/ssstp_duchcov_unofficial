@@ -1,6 +1,4 @@
-<html>
-<base target="_blank">
-  
+
 # ssstp_duchcov_unofficial
 
 [Střední škola stavební a strojní, Duchcov](https://www.ssstp.cz/)
@@ -23,4 +21,4 @@
 
 [Zednické práce](https://www.ssstp.cz/2021/01/18/zednicke-prace/)
   
-  </html>
+
