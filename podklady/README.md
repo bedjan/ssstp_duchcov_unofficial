@@ -1,0 +1,1 @@
+## Veškeré podklady
