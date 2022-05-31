@@ -2,9 +2,9 @@
 
 ### Katastr
 
-[CUZK](https://www.cuzk.cz/)[Katastr mapy - dxf, dgn,..]
-(https://ags.cuzk.cz/geoprohlizec/)[Nahlížení do katastru - Marushka]
-(https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3)
+[CUZK](https://www.cuzk.cz/)
+[Katastr mapy - dxf, dgn,..](https://ags.cuzk.cz/geoprohlizec/)
+[Nahlížení do katastru - Marushka](https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3)
 [Nahlížení do katastru nemovitostí](https://nahlizenidokn.cuzk.cz/)
 [Katastr s dgn mapy](https://services.cuzk.cz/dgn/ku/)
 [Katastr s dxf mapy - v autocadu vložit - importovat dgn](https://services.cuzk.cz/dxf/ku/)
@@ -106,7 +106,7 @@ ZADÁVÁNÍ K VYJÁDŘENÍ SÍTÍ - informace o existenci sítě, průzkum,...
 [Geoportál - Ústecký kraj](https://geoportal.kr-ustecky.cz/gs/vsechny-mapy/)
 _označeni s hvězdičkou - vyjádření k existenci sítím umí elektronicky_
 
--[**\* CETIN a. s.**](https://www.cetin.cz/sit-cetin/vyjadrovani-o-existenci-siti) 
+- [**\* CETIN a. s.**](https://www.cetin.cz/sit-cetin/vyjadrovani-o-existenci-siti) 
 - zpoplatněno  [**COPROSYS Ústí spol. s r.o.**](https://www.coprosys.cz/vyjadreni-k-existenci-siti/) 
 - [**\* DIAMO - palivový kombinát, státní podnik, Ústí**](https://www.diamo.cz/cs/kontakty) 
 - neplatný email [**\* DOZIMONT, s.r.o.**](https://www.dozimont.cz/kontakty) 
