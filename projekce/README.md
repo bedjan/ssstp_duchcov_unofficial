@@ -2,7 +2,7 @@
 
 ### Katastr
 
-[CUZK](https://www.cuzk.cz/)
+[ČÚZK - Český úřad zeměměřický a katastrální](https://www.cuzk.cz/)
 
 [Katastr mapy - dxf, dgn,..](https://ags.cuzk.cz/geoprohlizec/)
 
