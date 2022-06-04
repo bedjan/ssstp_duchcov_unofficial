@@ -16,7 +16,9 @@
 
 [Ikatastr - mapa, info z katastru nemovitostí](https://www.ikatastr.cz/)
 
-[Mawis - Města](https://mawis.eu/utilityreport/mesta/)
+[Mawis - utilityreport pro Města](https://mawis.eu/utilityreport/mesta/  "on-line formulář usnadňující podání žádostí o vyjádření k existenci sítí. Důvod žádostí může být také územní souhlas, stavební řízení a jiné")
+
+
 
 ### Mapy
 
