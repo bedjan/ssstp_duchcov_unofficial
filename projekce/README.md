@@ -40,7 +40,9 @@
 
 ### Registr ekonomických subjektů
 
-[Živnost. rejstřík](https://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND)[RES](https://apl.czso.cz/irsw/)[ARES](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz)
+[Živnost. rejstřík](https://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?VSS_SERV=ZVWSBJFND)
+[RES](https://apl.czso.cz/irsw/)
+[ARES](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz)
 
 ### Úschovny
 
