@@ -2,19 +2,21 @@
 
 ### Katastr
 
-[ČÚZK - Český úřad zeměměřický a katastrální](https://www.cuzk.cz/)
+[ČÚZK - Hlavní strana ( Český úřad zeměměřický a katastrální ) ](https://www.cuzk.cz/)
 
-[Katastr mapy - dxf, dgn,..](https://ags.cuzk.cz/geoprohlizec/)
+[ČÚZK - Katastr mapy - dxf, dgn,..](https://ags.cuzk.cz/geoprohlizec/)
 
-[Nahlížení do katastru - Marushka](https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3)
+[ČÚZK - Nahlížení do katastru - Marushka](https://sgi-nahlizenidokn.cuzk.cz/marushka/default.aspx?themeid=3)
 
-[Nahlížení do katastru nemovitostí](https://nahlizenidokn.cuzk.cz/)
+[ČÚZK - Nahlížení do katastru nemovitostí](https://nahlizenidokn.cuzk.cz/)
 
-[Katastr s dgn mapy](https://services.cuzk.cz/dgn/ku/)
+[ČÚZK - Katastr s dgn mapy](https://services.cuzk.cz/dgn/ku/)
 
-[Katastr s dxf mapy - v autocadu vložit - importovat dgn](https://services.cuzk.cz/dxf/ku/)
+[ČÚZK - Katastr s dxf mapy - v autocadu vložit - importovat dgn](https://services.cuzk.cz/dxf/ku/)
 
-[Ikatastr](https://www.ikatastr.cz/)[Mawis - Města](https://mawis.eu/utilityreport/mesta/)
+[Ikatastr - mapa, info z katastru nemovitostí](https://www.ikatastr.cz/)
+
+[Mawis - Města](https://mawis.eu/utilityreport/mesta/)
 
 ### Mapy
 
