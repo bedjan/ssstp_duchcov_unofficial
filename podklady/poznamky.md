@@ -7,14 +7,15 @@
 "Voják se stará, voják má." - Plno věcí za tebe nikdo neudělá, musíš se starat sám.
 
 
+
 ***Pravidla, která můžeš použít i v praxi:***
 
-[x] **Slušnost** - pokud se k zákazníkům , šéfovi nebudeme chovat slušně, těžko si vybudujeme dobré jméno jednotlivce, či firmy
+1) **Slušnost** - pokud se k zákazníkům , šéfovi nebudeme chovat slušně, těžko si vybudujeme dobré jméno jednotlivce, či firmy
 
-[x] **Férovost**  - pokud něco slibujete, tak to dodržujte, jinak se ztrácí zákazníkova důvěra ( poslouchej své zákazníky, nech je říci všechny jejich požadavky a adekvátně na to reaguj a případně předkládej optimální řešení vzhledem k jejich financím  a délce životnosti jednotlivých pvků )
+2) **Férovost**  - pokud něco slibujete, tak to dodržujte, jinak se ztrácí zákazníkova důvěra ( poslouchej své zákazníky, nech je říci všechny jejich požadavky a adekvátně na to reaguj a případně předkládej optimální řešení vzhledem k jejich financím  a délce životnosti jednotlivých pvků )
 
-[x] **Pracuj lehce a chytře**  - pokud můžeš práci si ulehčuj a přemýšlej nad jejim lepším řešením ( "Dvakrát měř, jednou řeš" )
+3) **Pracuj lehce a chytře**  - pokud můžeš práci si ulehčuj a přemýšlej nad jejim lepším řešením ( "Dvakrát měř, jednou řeš" )
 
-[x] **Hlídej vstupy a výstupy**  - stanov si podmínky a zdroje pro splnění jednotlivých cílů
+4) **Hlídej vstupy a výstupy**  - stanov si podmínky a zdroje pro splnění jednotlivých cílů
 
-[x]  **V praxi** - bude málo těch kdo vám předá svoje Know how - proto se učte a ptejte teď, pak už může být problém informace získat
+5)  **V praxi** - bude málo těch kdo vám předá svoje Know how - proto se učte a ptejte teď, pak už může být problém informace získat
