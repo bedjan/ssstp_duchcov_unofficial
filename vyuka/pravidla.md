@@ -1,4 +1,4 @@
-#### Nastavení spolupráce učitel x třída x žák:
+#### Nastavení spolupráce učitel, vs. třída, vs. žák:
 
 1) Komunikace 
 2) Místo ve třídě
