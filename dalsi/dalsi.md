@@ -4,4 +4,4 @@
 [Jídelna](https://www.jidelny.me.cz/jidelna14)
 
 
-Hosté wifi: s....h...
+
