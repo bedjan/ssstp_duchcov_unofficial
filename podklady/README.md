@@ -6,4 +6,6 @@
 
 [Webová knihovna](https://ejmskoly.publi.cz/?filter=free)
 
+[Digitalizujeme školu](https://www.edu.cz/digitalizujeme/)
+
 
