@@ -8,4 +8,6 @@
 
 [Digitalizujeme školu](https://www.edu.cz/digitalizujeme/)
 
+[Fyzika a matematika](https://michalzednik.webnode.cz/)
+
 
