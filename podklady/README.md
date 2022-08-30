@@ -10,4 +10,5 @@
 
 [Fyzika a matematika](https://michalzednik.webnode.cz/odkazy/)
 
+[Výchovný ústav - Obořiště](http://www.vychovnyustavoboriste.cz/truhlar.html)
 
