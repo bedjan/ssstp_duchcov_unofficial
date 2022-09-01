@@ -12,3 +12,4 @@
 
 [Výchovný ústav - Obořiště](http://www.vychovnyustavoboriste.cz/truhlar.html)
 
+[Pozemní stavitelství 2 VŠB](http://fast10.vsb.cz/studijni-materialy/ps2/index.html)
