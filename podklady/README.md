@@ -1,7 +1,7 @@
 ## Veškeré podklady
 
 
-[Metodický portál](https://rvp.cz/)
+[Metodický portál](https://dum.rvp.cz)
 
 [Elektronická učebnice](https://eluc.ikap.cz/verejne/ucebnice/25/lekce)
 
