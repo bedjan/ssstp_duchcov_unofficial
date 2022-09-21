@@ -1,4 +1,6 @@
-[OCR online](https://www.onlineocr.net/)
+[TXT online](https://www.editpad.org/)
+
+[OCR online]]https://www.onlineocr.net/)
 
 [PDF na Word](https://www.ilovepdf.com/pdf_to_word)
 
