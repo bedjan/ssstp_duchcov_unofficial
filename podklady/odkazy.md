@@ -9,3 +9,5 @@
 [Excel online](https://www.offidocs.com/loleaflet/dist/loleaflet.html?service=owncloudservice08&file_path=file:///var/www/html/weboffice/mydata/6686747066/NewDocuments/9080798090.xlsx&username=6686747066&ext=yes)
 
 [DWG viewer online](https://sharecad.org/)
+
+[Pdf na DWG online](https://cadsofttools.com/cz/pdf-to-dwg-online/)
