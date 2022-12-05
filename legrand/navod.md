@@ -1,9 +1,8 @@
 ----
 ----
 
-LEGRAND A NETATMO -> NÁVODY
+# LEGRAND A NETATMO -> NÁVODY
 
-----
 ----
 
 ## Aplikace -> Home + Control
