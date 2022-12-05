@@ -1,3 +1,10 @@
+## Aplikace 
+
+[Home + Control - android](https://play.google.com/store/apps/details?id=com.legrand.homecontrol&hl=cs&gl=US)
+
+
+## Inteligentní dům
+
 ### Bezdrátový spínač
 
 [Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
