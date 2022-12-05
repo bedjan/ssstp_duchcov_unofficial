@@ -29,14 +29,14 @@
 ## Deska A
 
 
-### Bezdrátový spínač
+### LEGRAND - Bezdrátový spínač
 
 [Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
 
-### Detektor pohybu
+### LEGRAND - Detektor pohybu
 
 
 [Video](https://www.youtube.com/watch?v=sN2FrMbyaqU)
@@ -44,14 +44,14 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20detektor%20pohybu.pdf)
 
 
-### Bezdrátový žaluziový spínač
+### LEGRAND - Bezdrátový žaluziový spínač
 
 [Video](https://www.youtube.com/watch?v=FDQ2oZSadik)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20%C5%BEaluziov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
 
-### Komunikační brána EMDX3 with Netatmo
+### LEGRAND - Komunikační brána EMDX3 with Netatmo
 
 
 [Video](https://www.youtube.com/watch?v=5jyaK8j7Z08)
@@ -59,7 +59,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2022-03/LE12071_CZ_BD_412181.pdf)
 
 
-### Připojená mobilní zásuvka
+### LEGRAND - Připojená mobilní zásuvka
 
 
 [Video - doplnit](https://www.youtube.com/results?search_query=netatmo+socket)
