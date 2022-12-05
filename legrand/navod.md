@@ -2,14 +2,14 @@
 
 [Android](https://play.google.com/store/apps/details?id=com.legrand.homecontrol&hl=cs&gl=US)
 
-[Ios](https://apps.apple.com/us/app/home-control/id1188809809)
+[iOS](https://apps.apple.com/us/app/home-control/id1188809809)
 
 
 ## Aplikace  -> Netatmo Security
 
 [Android](https://play.google.com/store/apps/details?id=com.netatmo.camera&hl=cs&gl=US)
 
-[Ios](https://apps.apple.com/us/app/netatmo-security/id951725393?l=de)
+[iOS](https://apps.apple.com/us/app/netatmo-security/id951725393?l=de)
 
 
 
