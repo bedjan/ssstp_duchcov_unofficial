@@ -57,7 +57,7 @@
 ### Připojená mobilní zásuvka
 
 
-[Video]()
+[Video - doplnit](https://www.youtube.com/results?search_query=netatmo+socket)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20mobiln%C3%AD%20z%C3%A1suvka.pdf)
 
