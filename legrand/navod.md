@@ -14,6 +14,6 @@
 
 ### NETATMO - Chytré termohlavice pro radiátory
 
-[Video](https://www.youtube.com/watch?v=kwFel_QhXTM)
+[Video](https://www.youtube.com/watch?v=H1jjrOBeZbo)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
