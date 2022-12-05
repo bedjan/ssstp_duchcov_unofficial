@@ -72,6 +72,11 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
 
 
+### NETATMO - termostat Smarther with Netatmo
+
+[Video](https://www.youtube.com/watch?v=sC3VbBe2JeU)
+
+[Návod pdf](https://www.netatmo.com/cs-cz/partners/smarther)
 
 ## Deska C
 
