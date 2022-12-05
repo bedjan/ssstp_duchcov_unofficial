@@ -79,3 +79,5 @@
 ### NETATMO - Chytrý detektor kouře
 
 [Video](https://www.youtube.com/watch?v=WqM2MHY5b4k&t=326s)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20detektor%20kou%C5%99e%20NSA-PRO-EU.pdf)
