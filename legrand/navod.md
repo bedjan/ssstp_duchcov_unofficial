@@ -11,7 +11,9 @@
 
 [iOS](https://apps.apple.com/us/app/netatmo-security/id951725393?l=de)
 
+## Plánek 
 
+[Autocad dwg](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/podklad.dwg)
 
 
 
