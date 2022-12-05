@@ -95,3 +95,24 @@
 [Video](https://www.youtube.com/watch?v=WqM2MHY5b4k&t=326s)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20detektor%20kou%C5%99e%20NSA-PRO-EU.pdf)
+
+
+### NETATMO - Zvonek
+
+[Video](https://www.youtube.com/watch?v=ZPA1FgW95rg)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-09/Netatmo%20zvonek%20NDB-PRO.pdf)
+
+
+### NETATMO - Vnitřní kamera
+
+[Video](https://www.youtube.com/watch?v=GodZSj2DU6w)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vnit%C5%99n%C3%AD%20kamera%20NSC-PRO.pdf)
+
+
+### NETATMO - Vnější kamera 
+
+[Video](https://www.youtube.com/watch?v=7xDWd3JvucI)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vn%C4%9Bj%C5%A1%C3%AD%20kamera%20NOC-PRO.pdf)
