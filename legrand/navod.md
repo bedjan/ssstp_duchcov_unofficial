@@ -1,7 +1,7 @@
 ----
 ----
 
-LEGRAND A NETATMO NÁVODY
+LEGRAND A NETATMO -> NÁVODY
 
 ----
 ----
@@ -27,7 +27,7 @@ LEGRAND A NETATMO NÁVODY
 ----
 ----
 
-# Inteligentní dům -> návody
+# INTELIGENTNÍ DŮM -> DESKY
 
 ----
 
