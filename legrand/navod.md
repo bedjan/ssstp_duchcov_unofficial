@@ -54,6 +54,14 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2022-03/LE12071_CZ_BD_412181.pdf)
 
 
+### Připojená mobilní zásuvka
+
+
+[Video]()
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20mobiln%C3%AD%20z%C3%A1suvka.pdf)
+
+
 ## Deska B
 
 
@@ -66,3 +74,8 @@
 
 
 ## Deska C
+
+
+### NETATMO - Chytrý detektor kouře
+
+[Video](https://www.youtube.com/watch?v=WqM2MHY5b4k&t=326s)
