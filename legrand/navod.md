@@ -1,6 +1,11 @@
 ----
 ----
 
+LEGRAND A NETATMO NÁVODY
+
+----
+----
+
 ## Aplikace -> Home + Control
 
 [Android](https://play.google.com/store/apps/details?id=com.legrand.homecontrol&hl=cs&gl=US)
