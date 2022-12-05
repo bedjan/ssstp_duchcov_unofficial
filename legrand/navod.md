@@ -18,7 +18,11 @@
 
 
 
-## Inteligentní dům -> návody
+# Inteligentní dům -> návody
+
+
+## Deska A
+
 
 ### Bezdrátový spínač
 
@@ -30,7 +34,7 @@
 ### Detektor pohybu
 
 
-[Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
+[Video](https://www.youtube.com/watch?v=sN2FrMbyaqU)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20detektor%20pohybu.pdf)
 
@@ -42,8 +46,23 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20%C5%BEaluziov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
 
+### Komunikační brána EMDX3 with Netatmo
+
+
+[Video](https://www.youtube.com/watch?v=5jyaK8j7Z08)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2022-03/LE12071_CZ_BD_412181.pdf)
+
+
+## Deska B
+
+
 ### NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
 
 [Video](https://www.youtube.com/watch?v=H1jjrOBeZbo)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
+
+
+
+## Deska C
