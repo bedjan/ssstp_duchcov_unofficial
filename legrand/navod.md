@@ -2,6 +2,9 @@
 
 [Home + Control - android](https://play.google.com/store/apps/details?id=com.legrand.homecontrol&hl=cs&gl=US)
 
+[Home + Control - ios](https://apps.apple.com/us/app/home-control/id1188809809)
+
+
 
 ## Inteligentní dům
 
