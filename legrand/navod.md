@@ -43,6 +43,7 @@
 
 ### 1) LEGRAND - Detektor pohybu
 
+![obrazek](https://user-images.githubusercontent.com/29821749/205888664-7284241e-2b59-40c4-a355-62501294302a.png)
 
 [Video](https://www.youtube.com/watch?v=sN2FrMbyaqU)
 
