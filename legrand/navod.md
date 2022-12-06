@@ -22,6 +22,11 @@
 
 [Autocad dwg](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/podklad.dwg)
 
+## Wifi síť - SSID
+
+SSID (Název): Ucebna VR
+Heslo: u správce sítě wifi
+
 
 ----
 ----
