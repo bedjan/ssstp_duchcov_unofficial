@@ -25,6 +25,7 @@
 ## Wifi síť - SSID
 
 SSID (Název): Ucebna VR
+
 Heslo: u správce sítě wifi
 
 
