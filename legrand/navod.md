@@ -1,3 +1,27 @@
+- [LEGRAND A NETATMO -> NÁVODY](#legrand-a-netatmo----n-vody)
+  * [Aplikace -> Home + Control](#aplikace----home---control)
+  * [Aplikace  -> Netatmo Security](#aplikace-----netatmo-security)
+  * [Plánek](#pl-nek)
+  * [Wifi síť - SSID](#wifi-s-----ssid)
+- [INTELIGENTNÍ DŮM -> DESKY](#inteligentn--d-m----desky)
+  * [Deska A](#deska-a)
+    + [1) LEGRAND - Detektor pohybu](#1--legrand---detektor-pohybu)
+    + [2) LEGRAND - Bezdrátový spínač](#2--legrand---bezdr-tov--sp-na-)
+    + [3) LEGRAND - Bezdrátový žaluziový spínač](#3--legrand---bezdr-tov---aluziov--sp-na-)
+    + [4) Žaluzie signalizace](#4---aluzie-signalizace)
+    + [5) LEGRAND - Komunikační brána EMDX3 with Netatmo](#5--legrand---komunika-n--br-na-emdx3-with-netatmo)
+    + [6) LEGRAND - Připojená mobilní zásuvka](#6--legrand---p-ipojen--mobiln--z-suvka)
+    + [7) Wifi router Mikrotik](#7--wifi-router-mikrotik)
+  * [Deska B](#deska-b)
+    + [1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )](#1--netatmo---chytr--termohlavice-pro-radi-tory---nap-rovat-s-netatmo-smart-rele--)
+    + [2) NETATMO - termostat Smarther with Netatmo](#2--netatmo---termostat-smarther-with-netatmo)
+  * [Deska C](#deska-c)
+    + [1) NETATMO - Chytrý detektor kouře](#1--netatmo---chytr--detektor-kou-e)
+    + [2) NETATMO - Zvonek](#2--netatmo---zvonek)
+    + [3) NETATMO - Vnitřní kamera](#3--netatmo---vnit-n--kamera)
+    + [4) NETATMO - Vnější kamera](#4--netatmo---vn-j---kamera)
+    + [LEGRAND - další návody](#legrand---dal---n-vody)
+
 ----
 ----
 
