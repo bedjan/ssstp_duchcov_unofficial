@@ -3,7 +3,7 @@
   * [Aplikace -> Home + Control](#aplikace---home--control)
   * [Aplikace  -> Netatmo Security](#aplikace----netatmo-security)
   * [Plánek ](#plánek)
-  * [Wifi síť - SSID](#wifi-sí---ssid)
+  * [Wifi síť - SSID](#wifi-síť---ssid)
 - [INTELIGENTNÍ DŮM -> DESKY](#inteligentní-dm---desky)
   * [Deska A](#deska-a)
     + [1) LEGRAND - Detektor pohybu](#1-legrand---detektor-pohybu)
