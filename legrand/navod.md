@@ -61,6 +61,8 @@
 
 ### 3) LEGRAND - Bezdrátový žaluziový spínač
 
+![Bezdrátový žaluziový spínač](https://user-images.githubusercontent.com/29821749/205889498-45e9b589-e251-4b27-8dcd-0b8a0c4b35e7.png)
+
 [Video](https://www.youtube.com/watch?v=FDQ2oZSadik)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20%C5%BEaluziov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
@@ -68,8 +70,12 @@
 
 ### 4) Žaluzie signalizace
 
+![Žaluzie signalizace](https://user-images.githubusercontent.com/29821749/205889676-10f78cb2-112b-4ed5-8912-ed60db0c0aa9.png)
+
 
 ### 5) LEGRAND - Komunikační brána EMDX3 with Netatmo
+
+![Komunikační brána EMDX3 with Netatmo](https://user-images.githubusercontent.com/29821749/205889902-4f4dd950-b0f2-47e9-ab58-7e467899e6df.png)
 
 
 [Video](https://www.youtube.com/watch?v=5jyaK8j7Z08)
@@ -79,14 +85,17 @@
 
 ### 6) LEGRAND - Připojená mobilní zásuvka
 
+![Připojená mobilní zásuvka](https://user-images.githubusercontent.com/29821749/205890130-dc2f3678-3033-4d5c-ad28-2c5bc4396578.png)
+
 
 [Video - doplnit](https://www.youtube.com/results?search_query=netatmo+socket)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20mobiln%C3%AD%20z%C3%A1suvka.pdf)
 
 
-### 7) Wifi router
+### 7) Wifi router Mikrotik
 
+![Wifi router Mikrotik](https://user-images.githubusercontent.com/29821749/205890308-2cc261c3-d211-40da-bc0c-00fb94b777a1.png)
 
 **SSID (Název):** Ucebna VR
 
@@ -101,12 +110,17 @@
 
 ### 1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
 
+![Chytré termohlavice pro radiátory](https://user-images.githubusercontent.com/29821749/205891763-c5ad604d-489e-4d12-a547-f9e0e6ad376e.png)
+
 [Video](https://www.youtube.com/watch?v=H1jjrOBeZbo)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
 
 
 ### 2) NETATMO - termostat Smarther with Netatmo
+
+![termostat Smarther with Netatmo](https://user-images.githubusercontent.com/29821749/205892282-e27579bb-fb05-41cc-93b8-5c38e2f8df90.png)
+
 
 [Video](https://www.youtube.com/watch?v=sC3VbBe2JeU)
 
@@ -120,12 +134,16 @@
 
 ### 1) NETATMO - Chytrý detektor kouře
 
+![Chytrý detektor kouře](https://user-images.githubusercontent.com/29821749/205892544-5c715bdb-fe28-4770-b239-06139e5b49cf.png)
+
 [Video](https://www.youtube.com/watch?v=WqM2MHY5b4k&t=326s)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20detektor%20kou%C5%99e%20NSA-PRO-EU.pdf)
 
 
 ### 2) NETATMO - Zvonek
+
+![Zvonek](https://user-images.githubusercontent.com/29821749/205892774-115f615f-5d38-4b93-a984-0698010717de.png)
 
 [Video](https://www.youtube.com/watch?v=ZPA1FgW95rg)
 
@@ -134,12 +152,16 @@
 
 ### 3) NETATMO - Vnitřní kamera
 
+![Vnitřní kamera](https://user-images.githubusercontent.com/29821749/205892970-b43aec17-b180-4114-8693-651426f351de.png)
+
 [Video](https://www.youtube.com/watch?v=GodZSj2DU6w)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vnit%C5%99n%C3%AD%20kamera%20NSC-PRO.pdf)
 
 
 ### 4) NETATMO - Vnější kamera 
+
+![Vnější kamera](https://user-images.githubusercontent.com/29821749/205893247-890a44a5-1016-4d0c-a856-b65421bc7437.png)
 
 [Video](https://www.youtube.com/watch?v=7xDWd3JvucI)
 
