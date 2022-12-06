@@ -43,7 +43,7 @@
 
 ### 1) LEGRAND - Detektor pohybu
 
-![obrazek](https://user-images.githubusercontent.com/29821749/205888664-7284241e-2b59-40c4-a355-62501294302a.png)
+![Detektor pohybu](https://user-images.githubusercontent.com/29821749/205888664-7284241e-2b59-40c4-a355-62501294302a.png)
 
 [Video](https://www.youtube.com/watch?v=sN2FrMbyaqU)
 
@@ -51,6 +51,9 @@
 
 
 ### 2) LEGRAND - Bezdrátový spínač
+
+![Bezdrátový spínač](https://user-images.githubusercontent.com/29821749/205888988-2c4b8597-5c83-453b-815c-45d4fa7c552b.png)
+
 
 [Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
 
