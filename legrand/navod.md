@@ -37,9 +37,9 @@
 ----
 
 ## Deska A
-
+<div style="width: 60%; height: 60%">
 ![Deska A schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/a1.jpg)
-
+</div>
 
 ### 1) LEGRAND - Detektor pohybu
 
