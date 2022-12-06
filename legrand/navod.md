@@ -40,14 +40,8 @@
 
 ![Deska A schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/a1.jpg)
 
-### LEGRAND - Bezdrátový spínač
 
-[Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
-
-[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
-
-
-### LEGRAND - Detektor pohybu
+### 1) LEGRAND - Detektor pohybu
 
 
 [Video](https://www.youtube.com/watch?v=sN2FrMbyaqU)
@@ -55,14 +49,23 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20detektor%20pohybu.pdf)
 
 
-### LEGRAND - Bezdrátový žaluziový spínač
+### 2) LEGRAND - Bezdrátový spínač
+
+[Video](https://www.youtube.com/watch?v=nKRhQYD0xXM)
+
+[Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
+
+### 3) LEGRAND - Bezdrátový žaluziový spínač
 
 [Video](https://www.youtube.com/watch?v=FDQ2oZSadik)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20%C5%BEaluziov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
 
-### LEGRAND - Komunikační brána EMDX3 with Netatmo
+### 4) Žaluzie signalizace
+
+
+### 5) LEGRAND - Komunikační brána EMDX3 with Netatmo
 
 
 [Video](https://www.youtube.com/watch?v=5jyaK8j7Z08)
@@ -70,12 +73,20 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2022-03/LE12071_CZ_BD_412181.pdf)
 
 
-### LEGRAND - Připojená mobilní zásuvka
+### 6) LEGRAND - Připojená mobilní zásuvka
 
 
 [Video - doplnit](https://www.youtube.com/results?search_query=netatmo+socket)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20mobiln%C3%AD%20z%C3%A1suvka.pdf)
+
+
+### 7) Wifi router
+
+
+**SSID (Název):** Ucebna VR
+
+**Heslo:** u správce sítě wifi
 
 
 ----
@@ -84,14 +95,14 @@
 
 ![Deska B schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/b1.jpg)
 
-### NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
+### 1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
 
 [Video](https://www.youtube.com/watch?v=H1jjrOBeZbo)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
 
 
-### NETATMO - termostat Smarther with Netatmo
+### 2) NETATMO - termostat Smarther with Netatmo
 
 [Video](https://www.youtube.com/watch?v=sC3VbBe2JeU)
 
@@ -103,28 +114,28 @@
 
 ![Deska C schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/c1.jpg)
 
-### NETATMO - Chytrý detektor kouře
+### 1) NETATMO - Chytrý detektor kouře
 
 [Video](https://www.youtube.com/watch?v=WqM2MHY5b4k&t=326s)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20detektor%20kou%C5%99e%20NSA-PRO-EU.pdf)
 
 
-### NETATMO - Zvonek
+### 2) NETATMO - Zvonek
 
 [Video](https://www.youtube.com/watch?v=ZPA1FgW95rg)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-09/Netatmo%20zvonek%20NDB-PRO.pdf)
 
 
-### NETATMO - Vnitřní kamera
+### 3) NETATMO - Vnitřní kamera
 
 [Video](https://www.youtube.com/watch?v=GodZSj2DU6w)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vnit%C5%99n%C3%AD%20kamera%20NSC-PRO.pdf)
 
 
-### NETATMO - Vnější kamera 
+### 4) NETATMO - Vnější kamera 
 
 [Video](https://www.youtube.com/watch?v=7xDWd3JvucI)
 
