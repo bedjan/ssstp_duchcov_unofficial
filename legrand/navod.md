@@ -38,6 +38,7 @@ Heslo: u správce sítě wifi
 
 ## Deska A
 
+![Deska A schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/a1.jpg)
 
 ### LEGRAND - Bezdrátový spínač
 
@@ -81,6 +82,7 @@ Heslo: u správce sítě wifi
 
 ## Deska B
 
+![Deska B schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/b1.jpg)
 
 ### NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
 
@@ -99,6 +101,7 @@ Heslo: u správce sítě wifi
 
 ## Deska C
 
+![Deska C schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/c1.jpg)
 
 ### NETATMO - Chytrý detektor kouře
 
