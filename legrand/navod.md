@@ -110,7 +110,9 @@
 
 ### 1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )
 
-![Chytré termohlavice pro radiátory](https://user-images.githubusercontent.com/29821749/205891763-c5ad604d-489e-4d12-a547-f9e0e6ad376e.png)
+
+![Chytré termohlavice pro radiátory](https://user-images.githubusercontent.com/29821749/205893551-b41b7320-4c46-4660-b129-49c71c2d8674.png)
+
 
 [Video](https://www.youtube.com/watch?v=H1jjrOBeZbo)
 
