@@ -168,3 +168,10 @@
 [Video](https://www.youtube.com/watch?v=7xDWd3JvucI)
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vn%C4%9Bj%C5%A1%C3%AD%20kamera%20NOC-PRO.pdf)
+
+
+----
+
+### LEGRAND - další návody
+
+[Legrand další návody pdf](https://www.legrand.cz/ke-stazeni/navody)
