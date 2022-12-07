@@ -4,7 +4,7 @@
 <!-- TOC start -->
 - [LEGRAND A NETATMO -> NÁVODY](#legrand-a-netatmo----návody)
   * [Aplikace -> Home + Control](#aplikace----home---control)
-  * [Aplikace  -> Netatmo Security](#aplikace-----netatmo-security)
+  * [Aplikace  -> Netatmo Security](#aplikace--->-netatmo-security)
   * [Plánek](#plánek)
   * [Wifi síť - SSID](#wifi-s-----ssid)
 - [INTELIGENTNÍ DŮM -> DESKY](#inteligentní-dům----desky)
