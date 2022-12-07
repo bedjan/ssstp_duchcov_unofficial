@@ -2,7 +2,7 @@
 <a name="nahoru"></a>
 
 <!-- TOC start -->
-- [LEGRAND A NETATMO -> NÁVODY](#legrand-a-netatmo---návody)
+- [LEGRAND A NETATMO -> NÁVODY](#legrand-a-netatmo-návody)
   * [Aplikace -> Home + Control](#aplikace---home--control)
   * [Aplikace  -> Netatmo Security](#aplikace----netatmo-security)
   * [Plánek ](#plánek)
