@@ -33,7 +33,8 @@
 
 ----
 
-## Aplikace -> Home + Control <a href="#nahoru">Nahoru</a>
+## Aplikace -> Home + Control 
+<a href="#nahoru">Nahoru</a>
 
 [Android](https://play.google.com/store/apps/details?id=com.legrand.homecontrol&hl=cs&gl=US)
 
