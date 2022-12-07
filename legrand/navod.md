@@ -4,7 +4,7 @@
 <!-- TOC start -->
 - [LEGRAND A NETATMO -> NÁVODY](#legrand-a-netatmo----návody)
   * [Aplikace -> Home + Control](#aplikace----home---control)
-  * [Aplikace  -> Netatmo Security](#aplikace--->-netatmo-security)
+  * [Aplikace  -> Netatmo Security](#aplikace-----netatmo-security)
   * [Plánek](#plánek)
   * [Wifi síť - SSID](#wifi-s-----ssid)
 - [INTELIGENTNÍ DŮM -> DESKY](#inteligentní-dům----desky)
@@ -34,7 +34,7 @@
 
 ----
 
-## Aplikace -> Home + Control
+## Aplikace -> Home + Control <a name="aplikace----home---control"></a>
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -43,7 +43,7 @@
 [iOS](https://apps.apple.com/us/app/home-control/id1188809809)
 
 
-## Aplikace  -> Netatmo Security  
+## Aplikace  -> Netatmo Security  <a name="aplikace-----netatmo-security"></a>
  
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -51,13 +51,13 @@
 
 [iOS](https://apps.apple.com/us/app/netatmo-security/id951725393?l=de)
 
-## Plánek    
+## Plánek  <a name="plánek"></a>    
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
 [Autocad dwg](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/podklad.dwg)
 
-## Wifi síť - SSID  
+## Wifi síť - SSID  <a name="wifi-s-----ssid"></a>     
   
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -69,18 +69,18 @@
 ----
 ----
 
-# INTELIGENTNÍ DŮM -> DESKY
+# INTELIGENTNÍ DŮM -> DESKY  <a name="inteligentní-dům----desky"></a>   
 
 ----
 
-## Deska A   
+## Deska A  <a name="deska-a"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
 ![Deska A schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/a1.jpg)
 
 
-### 1) LEGRAND - Detektor pohybu   
+### 1) LEGRAND - Detektor pohybu  <a name="1--legrand---detektor-pohybu"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -91,7 +91,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20detektor%20pohybu.pdf)
 
 
-### 2) LEGRAND - Bezdrátový spínač   
+### 2) LEGRAND - Bezdrátový spínač  <a name="2--legrand---bezdrátový-spínač"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -102,7 +102,7 @@
 
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
-### 3) LEGRAND - Bezdrátový žaluziový spínač 
+### 3) LEGRAND - Bezdrátový žaluziový spínač  <a name="3--legrand---bezdrátový-žaluziový-spínač"></a>    
   
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -113,14 +113,14 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20bezdr%C3%A1tov%C3%BD%20%C5%BEaluziov%C3%BD%20sp%C3%ADna%C4%8D.pdf)
 
 
-### 4) Žaluzie signalizace  
+### 4) Žaluzie signalizace  <a name="4--žaluzie-signalizace"></a>     
  
 <a href="#nahoru">↑ Obsah ↑</a>
 
 ![Žaluzie signalizace](https://user-images.githubusercontent.com/29821749/205889676-10f78cb2-112b-4ed5-8912-ed60db0c0aa9.png)
 
 
-### 5) LEGRAND - Komunikační brána EMDX3 with Netatmo   
+### 5) LEGRAND - Komunikační brána EMDX3 with Netatmo  <a name="5--legrand---komunikační-brána-emdx3-with-netatmo"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -132,7 +132,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2022-03/LE12071_CZ_BD_412181.pdf)
 
 
-### 6) LEGRAND - Připojená mobilní zásuvka 
+### 6) LEGRAND - Připojená mobilní zásuvka  <a name="6--legrand---připojená-mobilní-zásuvka"></a>    
   
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -144,7 +144,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Legrand%20wirth%20Netatmo%20-%20%20mobiln%C3%AD%20z%C3%A1suvka.pdf)
 
 
-### 7) Wifi router Mikrotik  
+### 7) Wifi router Mikrotik  <a name="7--wifi-router-mikrotik"></a>     
  
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -157,13 +157,13 @@
 
 ----
 
-## Deska B   
+## Deska B  <a name="deska-b"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
 ![Deska B schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/b1.jpg)
 
-### 1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )   
+### 1) NETATMO - Chytré termohlavice pro radiátory ( napárovat s netatmo smart rele )  <a name="1--netatmo---chytrá-termohlavice-pro-radiátory---napárovat-s-netatmo-smart-rele--"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -176,7 +176,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20termostatick%C3%A9%20hlavice-starovac%C3%AD%20kit%20NVP-PRO.pdf)
 
 
-### 2) NETATMO - termostat Smarther with Netatmo   
+### 2) NETATMO - termostat Smarther with Netatmo  <a name="2--netatmo---termostat-smarther-with-netatmo"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -189,13 +189,13 @@
 
 ----
 
-## Deska C   
+## Deska C  <a name="deska-c"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
 ![Deska C schema](https://github.com/bedjan/ssstp_duchcov_unofficial/raw/main/legrand/c1.jpg)
 
-### 1) NETATMO - Chytrý detektor kouře   
+### 1) NETATMO - Chytrý detektor kouře  <a name="1--netatmo---chytrý-detektor-kouře"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -206,7 +206,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20detektor%20kou%C5%99e%20NSA-PRO-EU.pdf)
 
 
-### 2) NETATMO - Zvonek   
+### 2) NETATMO - Zvonek  <a name="2--netatmo---zvonek"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -217,7 +217,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-09/Netatmo%20zvonek%20NDB-PRO.pdf)
 
 
-### 3) NETATMO - Vnitřní kamera   
+### 3) NETATMO - Vnitřní kamera  <a name="3--netatmo---vnitřní-kamera"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -228,7 +228,7 @@
 [Návod pdf](https://www.legrand.cz/sites/default/files/2021-03/Netatmo%20vnit%C5%99n%C3%AD%20kamera%20NSC-PRO.pdf)
 
 
-### 4) NETATMO - Vnější kamera   
+### 4) NETATMO - Vnější kamera  <a name="4--netatmo---vnější-kamera"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
@@ -241,7 +241,7 @@
 
 ----
 
-### LEGRAND - další návody   
+### LEGRAND - další návody  <a name="legrand---další-návody"></a>      
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
