@@ -25,6 +25,7 @@
     + [3) NETATMO - Vnitřní kamera](#3--netatmo---vnitřní-kamera)
     + [4) NETATMO - Vnější kamera](#4--netatmo---vnější-kamera)
     + [LEGRAND - další návody](#legrand---další-návody)
+    + [LEGRAND - certifikát](#legrand---certifikat) 
 <!-- TOC end -->
 
 ----
@@ -246,3 +247,14 @@
 <a href="#nahoru">↑ Obsah ↑</a>
 
 [Legrand další návody pdf](https://www.legrand.cz/ke-stazeni/navody)
+
+
+
+----
+
+### LEGRAND - certifikát  <a name="legrand---certifikat"></a>      
+
+<a href="#nahoru">↑ Obsah ↑</a>
+
+![Certifikat](https://user-images.githubusercontent.com/29821749/207027548-c542163a-ae77-4e4a-ac3d-d68f7191dd5a.png)
+
