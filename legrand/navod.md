@@ -275,5 +275,7 @@
 
 [Chytrý dům - partneři](https://support.brilliant.tech/hc/en-us/articles/360015720891-Smart-Home-Products-That-Work-With-Brilliant)
 
+[ConBee II a deCONZ – vlastní Zigbee gateway](https://blog.vyoralek.cz/iot/vlastni-zigbee-gateway-conbee-ii-a-deconz/)
+
 [API dokumentace](https://dev.netatmo.com/apidocumentation/control)
 
