@@ -273,5 +273,7 @@
 
 [Partneři Legrand](https://developer.legrand.com/partners/)
 
+[Chytrý dům - partneři](https://support.brilliant.tech/hc/en-us/articles/360015720891-Smart-Home-Products-That-Work-With-Brilliant)
+
 [API dokumentace](https://dev.netatmo.com/apidocumentation/control)
 
