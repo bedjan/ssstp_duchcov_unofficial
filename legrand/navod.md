@@ -26,6 +26,7 @@
     + [4) NETATMO - Vnější kamera](#4--netatmo---vnější-kamera)
     + [LEGRAND - další návody](#legrand---další-návody)
     + [LEGRAND - certifikát](#legrand---certifikat) 
+    + [LEGRAND - ostatní](#legrand---ostatni)  
 <!-- TOC end -->
 
 ----
@@ -257,4 +258,20 @@
 <a href="#nahoru">↑ Obsah ↑</a>
 
 ![Certifikat](https://user-images.githubusercontent.com/29821749/207027548-c542163a-ae77-4e4a-ac3d-d68f7191dd5a.png)
+
+
+
+
+----
+
+### LEGRAND - ostatní  <a name="legrand---ostatni"></a>      
+
+<a href="#nahoru">↑ Obsah ↑</a>
+
+
+[Apple homekit](https://legrand-communities.force.com/knowledgebase/s/article/Smart-Lighting-Control-How-to-complete-the-HomeKit-setup-commissioning-process)
+
+[Partneři Legrand](https://developer.legrand.com/partners/)
+
+[API dokumentace](https://dev.netatmo.com/apidocumentation/control)
 
