@@ -277,5 +277,5 @@
 
 [ConBee II a deCONZ – vlastní Zigbee gateway](https://blog.vyoralek.cz/iot/vlastni-zigbee-gateway-conbee-ii-a-deconz/)
 
-[API dokumentace](https://dev.netatmo.com/apidocumentation/control)
+[Legrand API dokumentace](https://dev.netatmo.com/apidocumentation/control)
 
