@@ -1,8 +1,8 @@
 # Chytrá domácnost od firem Legrand a Netatmo
 
-## *Přínos v bydlení* - bezpečí, přizpůsobivost, centralizace ovládání, pohodlí, automatizace, efektivnost a úspornost
+## *Přínos v bydlení* -> bezpečí, přizpůsobivost, centralizace ovládání, pohodlí, automatizace, efektivnost a úspornost
 
-## Ovládání přes mobilní aplikace -> Home + Control a Netatmo Security 
+## *Ovládání přes mobilní aplikace* -> Legrand Home + Control a Netatmo Security 
 
 ### Obsah
 <a name="nahoru"></a>
@@ -42,7 +42,7 @@
 
 ----
 
-## Aplikace -> Home + Control <a name="aplikace----home---control"></a>
+## Aplikace -> Legrand Home + Control <a name="aplikace----home---control"></a>
 
 <a href="#nahoru">↑ Obsah ↑</a>
 
