@@ -285,3 +285,5 @@
 
 [Legrand API dokumentace](https://dev.netatmo.com/apidocumentation/control)
 
+[Chytrá domácnost protokoly/platformy](https://www.smarttuya.cz/Prehled-komunikacnich-protokolu-platforem-pro-chytrou-domacnost-b20488.htm)
+
