@@ -1,4 +1,4 @@
-# Virtuální svářecí simulátor guideWELD
+# Virtuální svářecí simulátor guideWELD, od f. Realityworks, Inc.
 
 ## Popis
 
