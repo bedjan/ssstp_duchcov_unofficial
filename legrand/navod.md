@@ -2,6 +2,8 @@
 
 ## *Přínos v bydlení* - bezpečí, přizpůsobivost, centralizace ovládání, pohodlí, automatizace, efektivnost a úspornost
 
+## Ovládání přes mobilní aplikace -> Home + Control a Netatmo Security 
+
 ### Obsah
 <a name="nahoru"></a>
 
