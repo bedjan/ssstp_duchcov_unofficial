@@ -1,4 +1,4 @@
-# Chytrá domácnost - bezpečí, komfort, úspory energi
+# Chytrá domácnost od firem Legrand a Netatmo - bezpečí, komfort ovládání, úspory energií
 
 ### Obsah
 <a name="nahoru"></a>
