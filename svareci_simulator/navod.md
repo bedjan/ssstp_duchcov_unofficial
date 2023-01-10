@@ -9,7 +9,7 @@ guideWeld VR je virtuální svářecí simulátor umožňující uživateli ovl�
 
 [Video představení](https://www.youtube.com/watch?v=csu4D3M-OHc)
 
-[Video 1 hodinový trenink](https://www.youtube.com/watch?v=LGfzMC0EhIY
+[Video 1 hodinový trenink](https://www.youtube.com/watch?v=LGfzMC0EhIY)
 
 [Článek](https://www.mmspektrum.com/clanek/virtualni-svarovani-simulatory-pro-vyuku)
 
