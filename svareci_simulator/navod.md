@@ -9,12 +9,9 @@ guideWeld VR je virtuální svářecí simulátor umožňující uživateli ovl�
 
 
 
-
-    <iframe width="709" height="399"
-src="https://youtu.be/T4WxkMblF4s" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="left">
+  <a href="https://youtu.be/T4WxkMblF4s"><img src="https://user-images.githubusercontent.com/29821749/211522612-f06a1806-d5b9-4e40-a18c-f3dd238dc428.png" alt="Svářecí simulátor Duchcov"></a>
+</div>
 
 
 [Video představení](https://www.youtube.com/watch?v=csu4D3M-OHc)
