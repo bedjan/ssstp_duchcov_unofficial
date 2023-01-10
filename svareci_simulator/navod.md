@@ -8,13 +8,13 @@ guideWeld VR je virtuální svářecí simulátor umožňující uživateli ovl�
 
 
 
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/T4WxkMblF4s" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/T4WxkMblF4s"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+
+
+    <iframe width="709" height="399"
+src="https://youtu.be/T4WxkMblF4s" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 [Video představení](https://www.youtube.com/watch?v=csu4D3M-OHc)
