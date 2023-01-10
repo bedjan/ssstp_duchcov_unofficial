@@ -4,6 +4,8 @@
 
 ## *Ovládání přes mobilní aplikace* -> Legrand Home + Control a Netatmo Security [viz.](https://github.com/bedjan/ssstp_duchcov_unofficial/blob/main/legrand/navod.md#aplikace---legrand-home--control-)
 
+---
+
 ### Obsah
 <a name="nahoru"></a>
 
