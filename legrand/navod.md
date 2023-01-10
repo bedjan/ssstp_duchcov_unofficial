@@ -1,4 +1,6 @@
-# Chytrá domácnost od firem Legrand a Netatmo - bezpečí, komfort ovládání, úspory energií
+# Chytrá domácnost od firem Legrand a Netatmo
+
+## *Přínos v bydlení* - bezpečí, přizpůsobivost, centralizace ovládání, pohodlí, automatizace, efektivnost a úspornost
 
 ### Obsah
 <a name="nahoru"></a>
