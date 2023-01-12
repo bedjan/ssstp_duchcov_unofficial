@@ -3,6 +3,7 @@
 ## Popis
 
 guideWeld VR je virtuální svářecí simulátor umožňující uživateli ovládat základní dovednosti při svařování a pro nauku správné techniky v bezpečném virtuálním prostředí.
+Implementace svařovacího simulátoru guideWELD® VR umožňuje uživatelům zdokonalit základní svářečské dovednosti. Naučí se také správné svařovací techniky a prozkoumají cestu svářečské kariéry a zároveň šetří na drahém spotřebním materiálu. Svařovací simulátor poskytuje okamžitou zpětnou vazbu o pracovním úhlu, úhlu pojezdu, rychlosti, vzdálenosti trysky od desky a přímosti.
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=csu4D3M-OHc"><img src="https://user-images.githubusercontent.com/29821749/211520299-1389a1cb-4108-4467-8554-a48b0f25cb8a.png" alt="Video - Svářecí simulátor obecné představení"></a>
